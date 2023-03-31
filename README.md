@@ -1,1 +1,3 @@
 # Projetos-de-eSports
+
+Aqui estão alguns projetos voltados pra área de eSports que desenvolvi durante os mais de 3 anos na minha jornada. Dentre eles estão Análises Feitas no Power BI, a partir de uma metodologia de coleta de dados das partidas da Liga Brasileira de Free Fire, visando a otimização da performance do time, aprimorando a tomada de decisão com base em evidências em diferentes aspectos do game, como : Estudo do Time e Adversários buscando pontos fortes e fracos, Estudo do Meta Game, Estudo de Tendência de Safe, Scout de Players, Análise de Calls e etc. Há também, alguns projetos feitos utilizando disciplinas de Estatística, onde desenvolvi trabalhos na UFU, que inclusive foram apresentados.
